@@ -1,0 +1,1 @@
+-- Aula apenas para ensinar a instalar o SGBD da Oracle.

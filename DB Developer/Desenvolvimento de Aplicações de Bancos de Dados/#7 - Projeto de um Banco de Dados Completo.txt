@@ -1,0 +1,1 @@
+-- Apenas a demonstração de como criar um BD do zero.

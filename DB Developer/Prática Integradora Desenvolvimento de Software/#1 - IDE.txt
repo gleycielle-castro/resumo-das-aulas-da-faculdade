@@ -1,0 +1,2 @@
+Apenas ensinando os vários tipos de IDE's e para qual linguagem cada uma é melhor;
+VS Code + extensões mostradas na aula.
